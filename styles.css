@@ -67,7 +67,7 @@ button img {
     }
     .display {
     padding: 14px 10px;
-    justify-content: space-evenly;
+    justify-content: space-around;
     }
 
     .display img {
